@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1인 인디 개발자로 성공하기
+title: 블로그라는 걸 시작하며...
 published: true
 ---
 안녕하세요.
